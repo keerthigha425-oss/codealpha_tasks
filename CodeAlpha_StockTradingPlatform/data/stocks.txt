@@ -1,0 +1,8 @@
+TCS,Tata Consultancy Services,3450
+INFY,Infosys,1625
+RELIANCE,Reliance Industries,2880
+HDFCBANK,HDFC Bank,1755
+ICICIBANK,ICICI Bank,1290
+WIPRO,Wipro,280
+SBIN,State Bank of India,840
+LT,Larsen & Toubro,3850
