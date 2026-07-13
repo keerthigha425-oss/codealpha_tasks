@@ -55,6 +55,24 @@ CodeAlpha_StockTradingPlatform
 - Exception Handling
 - Real-world Project Design
 
+## 📸 Screenshots
+
+### View Available Stocks
+
+![View Available Stocks](view-market.png)
+
+---
+
+### Search Stock
+
+![Search Stock](search-market.png)
+
+---
+
+### Portfolio Overview
+
+![Portfolio Overview](portfolio.png)
+
 ## 👩‍💻 Author
 **C V Keerthigha**
 
