@@ -36,11 +36,11 @@ CodeAlpha_StudentGradeTracker
 
 ### Add Student
 
-![Add Student](add-student.png)
+![Add Student](add-std.png)
 
 ### Grade Report
 
-![Grade Report](grade-report.png)
+![Grade Report](sumary-rep.png)
 
 ## Author
 
