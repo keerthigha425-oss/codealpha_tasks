@@ -32,7 +32,7 @@ CodeAlpha_StudentGradeTracker
 
 ### Main Menu
 
-![Main Menu](C:\Users\KGB\Pictures\Screenshots/main-menu.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Add Student
 
