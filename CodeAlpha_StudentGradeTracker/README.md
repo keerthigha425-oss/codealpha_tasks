@@ -32,15 +32,15 @@ CodeAlpha_StudentGradeTracker
 
 ### Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](main-menu.png)
 
 ### Add Student
 
-![Add Student](screenshots/add-student.png)
+![Add Student](add-student.png)
 
 ### Grade Report
 
-![Grade Report](screenshots/grade-report.png)
+![Grade Report](grade-report.png)
 
 ## Author
 
