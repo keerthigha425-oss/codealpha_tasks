@@ -47,6 +47,30 @@ CodeAlpha_HotelReservationSystem
 - Data Management
 - Console-based Application Development
 
+## 📸 Screenshots
+
+### View Available Rooms
+
+![View Available Rooms](view-rooms.png)
+
+---
+
+### Search Rooms
+
+![Search Rooms](search.png)
+
+---
+
+### Book Room
+
+![Book Room](booking.png)
+
+---
+
+### Reservation Details
+
+![Reservation Details](txt.png)
+
 ## 👩‍💻 Author
 **C V Keerthigha**
 
